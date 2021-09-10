@@ -1,0 +1,6 @@
+{
+    "intelephense.environment.includePaths": [
+        "/liman/sandbox/php/"
+    ],
+    "intelephense.environment.phpVersion": "7.3.29"
+}
